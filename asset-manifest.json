@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/shivam101811/eyesome_git/static/css/main.5ba86444.css",
+    "main.js": "/shivam101811/eyesome_git/static/js/main.0e6796c3.js",
+    "static/media/img-2.jpg": "/shivam101811/eyesome_git/static/media/img-2.a9782fdc3e3e970d3e15.jpg",
+    "static/media/img-3.jpg": "/shivam101811/eyesome_git/static/media/img-3.c48272f5b45c040119db.jpg",
+    "static/media/pay-success.gif": "/shivam101811/eyesome_git/static/media/pay-success.1ae117bb38d51631fdfb.gif",
+    "static/media/img-4.jpg": "/shivam101811/eyesome_git/static/media/img-4.e4ddfec2e7833122b7db.jpg",
+    "static/media/no-data.gif": "/shivam101811/eyesome_git/static/media/no-data.9f632d3818c742cb0518.gif",
+    "static/media/img1.gif": "/shivam101811/eyesome_git/static/media/img1.5af0d55ffd0f31b86c32.gif",
+    "static/media/img-1.png": "/shivam101811/eyesome_git/static/media/img-1.5db9e43a4cbd9a1b0b57.png",
+    "static/media/cash-on-delivery.png": "/shivam101811/eyesome_git/static/media/cash-on-delivery.73077b4a42c230dfbdc3.png",
+    "index.html": "/shivam101811/eyesome_git/index.html",
+    "main.5ba86444.css.map": "/shivam101811/eyesome_git/static/css/main.5ba86444.css.map",
+    "main.0e6796c3.js.map": "/shivam101811/eyesome_git/static/js/main.0e6796c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ba86444.css",
+    "static/js/main.0e6796c3.js"
+  ]
+}
